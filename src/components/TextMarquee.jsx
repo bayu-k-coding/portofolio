@@ -17,9 +17,8 @@ export default function TextMarquee() {
   // Baris 2: Teks yang meluncur dari Kiri ke Kanan
   const textRow2 = [
     "Graphic Designer",
-    "Clean & Modern Code",
-    "Interactive Web Design",
-    "Creative Problem Solver",
+    "Brand Identity",
+    "Brand Visual",
     "Frontend Developer",
     "Clean & Modern Code",
     "Interactive Web Design",
